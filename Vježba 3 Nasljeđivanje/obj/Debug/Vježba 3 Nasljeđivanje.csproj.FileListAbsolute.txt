@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\GabrielCondric\Vježba 3 Nasljeđivanje\bin\Debug\Vježba 3 Nasljeđivanje.exe.config
+C:\Users\Ucenik\Documents\GabrielCondric\Vježba 3 Nasljeđivanje\bin\Debug\Vježba 3 Nasljeđivanje.exe
+C:\Users\Ucenik\Documents\GabrielCondric\Vježba 3 Nasljeđivanje\bin\Debug\Vježba 3 Nasljeđivanje.pdb
+C:\Users\Ucenik\Documents\GabrielCondric\Vježba 3 Nasljeđivanje\obj\Debug\Vježba 3 Nasljeđivanje.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Vježba 3 Nasljeđivanje\obj\Debug\Vježba 3 Nasljeđivanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Vježba 3 Nasljeđivanje\obj\Debug\Vježba 3 Nasljeđivanje.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Vježba 3 Nasljeđivanje\obj\Debug\Vježba 3 Nasljeđivanje.exe
+C:\Users\Ucenik\Documents\GabrielCondric\Vježba 3 Nasljeđivanje\obj\Debug\Vježba 3 Nasljeđivanje.pdb
